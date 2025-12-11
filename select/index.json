@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "SUPER RIDER",
+  "base_artist": "MARK ASTLEY",
+  "createdAt": "2025-12-11T14:51:59.739840Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Super Rider",
+      "artist": "Mark Astley",
+      "has_synced": false,
+      "path": "select/01_Super_Rider_Mark_Astley.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "super rider",
+      "artist": "mark astley",
+      "has_synced": true,
+      "path": "select/02_super_rider_mark_astley.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Super Rider - DJ Boss Remix",
+      "artist": "MARK ASTLEY",
+      "has_synced": false,
+      "path": "select/pl_01_Super_Rider_-_DJ_Boss_Remix_MARK_ASTLEY.txt"
+    }
+  ]
+}
